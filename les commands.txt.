@@ -1,0 +1,113 @@
+Commandes Windows :
+
+(Invité de commande [inspiré de MS-DOS]) :
+  Dir
+  La commande dir affiche des informations sur les fichiers et les répertoires, ainsi que sur l’espace disque disponible. Par défaut, il affiche le nom, la taille et la dernière heure de modification de chaque fichier du répertoire en cours.
+
+  Echo
+  La commande echo est utilisée pour afficher le texte saisi à l’écran et peut également être utilisée pour envoyer ce texte à un périphérique de l’ordinateur, tel qu’un port COM.
+ 
+  Type
+
+  IPconfig
+  Ipconfig est utilisé pour afficher les paramètres réseau attribués. Cette commande peut être utilisée pour vérifier une connexion réseau ainsi que pour vérifier vos paramètres réseau.
+ 
+  Ping
+  La commande ping est une commande utilisée pour tester la capacité de l’ordinateur source à atteindre un ordinateur de destination spécifié. La commande ping est généralement utilisée comme moyen simple de vérifier qu’un ordinateur peut communiquer sur le réseau avec un autre ordinateur ou un autre périphérique réseau.
+
+  Tracert
+  La commande tracert est une commande utilisée pour afficher plusieurs détails sur le chemin emprunté par un paquet de l’ordinateur ou du périphérique sur lequel vous vous trouvez, quelle que soit la destination spécifiée.
+ 
+  Pathping
+  Pareil à la commande tracert, pathping permet aux utilisateurs de localiser les points présentant une latence et une perte de réseau.
+
+  Netstat
+  La commande netstat, qui désigne « network statistics », est une commande utilisée pour afficher des informations très détaillées sur la manière dont votre ordinateur communique avec d’autres ordinateurs ou périphériques réseau.
+
+  FC (File Compare)
+  La commande fc permet de comparer deux fichiers. Une fois que fc est exécuté et terminé, il renvoie les lignes qui diffèrent entre les deux fichiers.
+
+  SFC (System File Checker)
+  SFC est un utilitaire de Microsoft Windows qui permet aux utilisateurs de chercher et de restaurer les corruptions dans les fichiers système Windows.
+
+  Driverquery
+  La commande driverquery permet de générer une liste de tous les pilotes de périphériques installés sur votre Windows 10.
+
+  Systeminfo
+  La commande systeminfo affiche des informations complètes sur le système.
+
+  Powercfg
+  La commande Powercfg sous Windows permet aux utilisateurs de configurer les paramètres d’alimentation sur les ordinateurs portables/bureau.
+
+  Shutdown
+  La commande shutdown est une commande utilisée pour éteindre, redémarrer, fermer la session ou mettre en veille prolongée votre propre ordinateur.
+
+  La commande shutdown peut également être utilisée pour éteindre ou redémarrer à distance un ordinateur auquel vous avez accès via un réseau.
+
+  Tasklist
+  Vous pouvez utiliser la commande TASKLIST pour afficher une liste des tâches en cours d’exécution. TASKLIST affiche le numéro d’identification du processus de chaque tâche en cours d’exécution, le nom du programme exécutable ayant lancé la tâche.
+ 
+  Taskkill
+  La commande taskkill permet de « tuer » une tâche à partir d’une ligne de commande Windows en spécifiant son PID (id de processus). Cette commande est similaire au programme « Fin de tâche » sous Windows.
+
+  Copy
+  La commande « copy » permet aux utilisateurs de copier un ou plusieurs fichiers vers un autre emplacement.
+
+  mkdir & md
+  Les commandes md et mkdir permettent aux utilisateurs de créer des répertoires.
+
+(PowerShell) :
+  La commande « Get-ChildItem » (Ou en abrégé GCI) vous permet de lister le contenu d’un répertoire comme le ferait la commande « Dir » sous DOS ou encore « ls » sous Linux
+
+  La commande « Get-Alias <Alias_Commande> » permet de savoir à quelle commande PowerShell se rapporte l’alias passé en paramètre.
+
+  La commande « Set-Location <Chemin> » (Ou en abrégé SL) permet de changer de répertoire comme le ferait la commande CD (Change Directory) sous DOS ou Linux
+
+  La commande « Get-Process » permet de récupérer la liste des processus actif sur votre système
+
+  La commande « Get-Service » Permet de récupérer la liste des services Windows de votre système
+
+  Pour connaitre le nom de toutes les commandes PowerShell : Get-Command
+
+  Pour connaitre le nom de toutes les fonctions PowerShell : Get-Command -CommandType Function
+
+  Pour connaitre le nombre de commandelettes disponible pour PowerShell : Get-Command -CommandType Cmdlet | Measure-Object
+
+  Pour obtenir de l’aide sur une commande : Get-Help Get-Command ou Help Get-Command
+
+  Pour obtenir de l’aide détaillé sur une commande : Get-Help Get-Command -Detailed | More
+
+  Pour obtenir de l’aide complète sur une commande : Get-Help Get-Command -Full | More
+
+  Pour obtenir la liste des commandes dont le verbe commence par le verbe listé en paramètre :
+
+  Get-Command -verb Set
+  Get-Command -verb Get
+  Get-Command -verb Get*
+  Get-Command -verb Write
+
+  Pour obtenir la liste des commandes dont le nom commence par le nom listé en paramètre :
+
+  Get-Command -Noun Item
+  Get-Command -Noun Object
+  Get-Command -Noun Obj*
+  Get-Command -Noun *Item
+
+  La commande « Get-Location » (Ou en abrégé gl et son alias pwd) permet d’afficher le répertoire courant à l’identique de la commande « pwd » existante sous Linux
+
+  La commande « New-Item »  (Ou en abrégé ni et son alias md) permet de créer des répertoires ou des fichiers
+
+  Création d’un répertoire : New-Item -ItemType directory -Name ‘TEST 1’ -Path C:\infonovice
+
+
+
+
+
+linux
+
+
+Linux ou GNU/Linux est une famille de systèmes d'exploitation open source de type Unix fondé sur le noyau Linux, créé en 1991 par Linus Torvalds. De nombreuses distributions Linux ont depuis vu le jour et constituent un important vecteur de popularisation du mouvement du logiciel libre.
+
+Si à l'origine, Linux a été développé pour les ordinateurs compatibles PC, il n'a jamais équipé qu'une très faible part des ordinateurs personnels. Mais le noyau Linux, accompagné ou non des logiciels GNU, est également utilisé par d'autres types de systèmes informatiques, notamment les serveurs, téléphones portables, systèmes embarqués ou encore superordinateurs. Le système d'exploitation pour téléphones portables Android qui utilise le noyau Linux mais pas GNU, équipe aujourd'hui 85 % des tablettes tactiles et smartphones2.
+
+L’interface de commande était le premier Shell intégré à Windows pour automatiser les tâches de routine, telles que la gestion des comptes d’utilisateur ou les sauvegardes nocturnes, avec des fichiers de commandes (. bat). Avec Windows Script Host, vous pouvez exécuter des scripts plus sophistiqués dans l’interface de commande. Pour plus d’informations, consultez cscript ou wscript. Vous pouvez effectuer des opérations plus efficacement à l’aide de scripts que si vous utilisiez l’interface utilisateur. Les scripts acceptent toutes les commandes qui sont disponibles sur la ligne de commande. Windows dispose de deux shells de commande : l’interface de commande et PowerShell.

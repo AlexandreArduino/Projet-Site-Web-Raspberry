@@ -1,0 +1,46 @@
+Windows 10 est un système d'exploitation de la famille Windows NT développé par la société américaine Microsoft. Officiellement présenté le 30 septembre 2014, il est disponible publiquement depuis le 29 juillet 2015. Bien que le système s'appelle Windows 10, il s'agit de la version NT 6.4 pour les versions jusqu’à la « Technical Preview », la première version de Windows NT 6 était Windows Vista. Windows 10 reste une ultime version de Windows NT 6.0 ; néanmoins depuis la version finale il porte bel et bien le numéro interne 10 en lieu et place de 6.4. Il est le successeur de Windows 8.1.
+
+Windows 8 est la version du système d'exploitation Windows multiplate-forme qui est commercialisée depuis le 26 octobre 20122. Bien que le système s'appelle Windows 8, il s'agit de la version NT 6.2, la première version de Windows 6 était Windows Vista (Windows NT 6.0). La version Windows 8.1 (version 6.3)3 est une mise à jour gratuite de Windows 8 qui est disponible depuis le 17 octobre 2013. Son successeur est Windows 10, sorti en juillet 2015.
+
+
+Windows 7 (précédemment connu en tant que Blackcomb et Vienna) est un système d'exploitation de la société Microsoft, sorti le 22 octobre 2009 et successeur de Windows Vista. Bien que le système s'appelle Windows 7, il s'agit de la version NT 6.1. Windows 7 est progressivement remplacé par Windows 8 à partir du 30 octobre 20123, le support de Windows 7 RTM a pris fin le 9 avril 20133 tandis que la version SP1 a vu son support standard se terminer le 13 janvier 20153 et a vu son support étendu se terminer le 14 janvier 20203. Cette version de Windows reprend l’acquis de Windows Vista tout en apportant de nombreuses modifications, notamment par divers changements au niveau de l’interface et de l’ergonomie générale, un effort particulier pour la gestion transparente des machines mobiles et le souci d’améliorer les performances globales du système (fluidité, rapidité d’exécution même sur des systèmes moins performants, tels les netbooks) par rapport à son prédécesseur.
+
+Windows XP (nom de code Whistler) est un système d'exploitation multitâche, développé et commercialisé par Microsoft, permettant l'usage d'un ordinateur tel qu'un ordinateur fixe, un portable ou encore un Media Center. Les lettres « XP » proviennent d'experience2. Microsoft a mis fin au support le 8 avril 20143. Entre autres, il n'y a plus de mises à jour et la base virale de Windows Defender n'est plus gérée.
+Windows XP est officiellement le successeur de Windows Millennium et de Windows 2000. Windows XP est sorti le 25 octobre 2001 et selon une estimation d'un institut de statistiques américaines, il a été vendu à près de 400 millions de copies en janvier 2006.
+
+
+Windows Vista est un système d'exploitation propriétaire de la famille Microsoft Windows, et plus précisément de la branche Windows NT (NT 6.0), développé et commercialisé par la société Microsoft. Il a été mis sur le marché le 30 janvier 2007, soit plus de cinq ans après son prédécesseur, Windows XP. Son successeur est Windows 7, sorti en octobre 2009.
+
+
+Windows Millennium Edition (parfois abrégé ME), ainsi nommé pour l'occasion du millénaire, est la 3ème édition de la branche 9x, lancé par Microsoft le 14 septembre 2000.
+Entièrement basé sur Windows 98, lui-même basé sur Windows 95, Windows ME était le pendant familial et multimédia de Windows par rapport à la version professionnelle (Windows 2000).
+Il constitue donc la dernière version de Windows 9x. Cette édition de Windows était livrée avec 2 CD, le premier contenant le système d'exploitation, et le deuxième une formation interactive à cette nouvelle édition.
+
+
+Windows 98 (nom de code Memphis) est un système d'exploitation de la société Microsoft, successeur de Windows 95. Le produit s'est décliné en deux versions principales : la première sortie le 25 juin 19981 puis une mise à jour de la précédente dite "Second Edition", sortie le 23 avril 1999. Il fut suivi par Windows Millennium (ME) pour le grand public et par Windows 2000 pour les entreprises. Il constitue la seconde version de Windows 9x. Tout comme son prédécesseur, Windows 98 est bâti sur MS-DOS 7.1 et aura été la dernière version à prendre en charge le mode réel.
+
+
+Windows 95 est un système d'exploitation à environnement graphique destiné aux particuliers. La première version est sortie le 24 août 1995, vendue par Microsoft1. C'est une progression significative par rapport aux précédentes versions de Windows. Pendant son développement, il avait été désigné sous le nom de Windows 4.0, ou par le nom de code de Chicago.
+Windows 95 a pour objectif d'intégrer les produits précédents de MS-DOS et de Windows. Windows 95 présente de nombreuses nouveautés par rapport à son prédécesseur, Windows 3.1 : programmation 32 bits, multitâche préemptif, nouvel environnement graphique.
+Sur le marché, Windows 95 est un réel succès et, un an après sa sortie, il devient le système d'exploitation le plus populaire jamais conçu. Trois ans plus tard, Windows 95 est remplacé par Windows 98, premier système d'exploitation orienté pour un usage d'Internet et prenant en charge l'USB.
+
+
+Windows 3.0 a été lancé le 22 mai 1990 et incluait par rapport à la version précédente des améliorations significatives, notamment au niveau de l'interface et au niveau de la gestion de la mémoire grâce aux capacités des processeurs Intel 80286 et 80386.
+
+C'est le système DOS de Microsoft le plus vendu.
+
+Ce programme se lançait depuis l'invite de commande MS-DOS à l'aide de la commande win. Il se présentait comme une surcouche graphique pour MS-DOS, tout comme les versions précédentes de Windows. Cependant, son lancement remplaçait aussi quelques routines du DOS par des routines Windows notamment au niveau de la gestion des ressources mémoire. C'est la dernière version qui propose une compatibilité parfaite avec les applications écrites pour les versions précédentes de Windows.
+
+Windows 2, sorti le 1er novembre 1987, a été la deuxième version de Windows et la deuxième tentative de la part de Microsoft de créer, à la suite de l'échec de Windows 1.0, une interface graphique pour compatibles PC.
+
+Windows 2 gérait le multitâche (en mode coopératif).
+
+Contrairement à son prédécesseur, Windows 2.0 permettait aux fenêtres de se superposer et de couvrir la barre des tâches (qui devint le « bureau »). Cette « barre des tâches » sera réintroduite dans Windows 95.
+La nouvelle gestion des fenêtres créa une dispute entre Microsoft et Apple; cette dernière affirmait que la fonction des fenêtres superposées violait une entente conclue entre les deux compagnies en 1985.
+
+Windows 1.0 était la première version de surcouche graphique de Microsoft, basée sur MS-DOS, elle fournissait une interface graphique à des applications qui se développaient de plus en plus : traitement d'images, calculs, graphes, gestion de la documentation, etc.
+Cette première version de Windows fut un des plus grands échecs de Microsoft.
+Développant un format d'exécutables propres, il s'illustrait avant tout par le principe des drivers (pilotes), qui permettaient à un programme d'utiliser un périphérique, indépendamment de la machine concernée.
+La version 1.0 fut annoncée par Microsoft en novembre 1983, ce qui semblait, deux ans avant la sortie du logiciel, développer une controverse selon laquelle Windows serait abandonné. En 1985, le logiciel est enfin officiellement distribué, mais son succès faible se limite aux seuls États-Unis ; et il fallut attendre la version 1.02 (en 1986) pour voir les premières versions internationales.
+Une des autres raisons qui aurait mené Windows à l'échec était sa gestion médiocre des fenêtres. Elles n'avaient pas de bouton de fermeture. Donc il fallait passer par un menu déroulant.
+
